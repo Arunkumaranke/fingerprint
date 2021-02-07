@@ -1,0 +1,14 @@
+.headerContent{
+    align-items: center;
+    display: flex !important;
+    justify-content: center;
+}
+.content-padding{
+    padding: 15px 12%;
+}
+.letter-size{
+    font-size: 42px;
+}
+.banner-title{
+    padding: 0px 15%;
+}

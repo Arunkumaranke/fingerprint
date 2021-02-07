@@ -1,0 +1,29 @@
+.header{
+    position: sticky;
+    top: 0;
+}
+.img{
+  height: 90px;
+  width: 150px;
+}
+.header-data{
+  background-color: #fff !important;
+  text-align: center !important;
+  top: 0;
+  padding-top: 30px;
+  width: 100%;
+  line-height: 1.42857143;
+  font-size: 12px;
+  box-shadow: none !important;
+}
+.headerContent{
+    align-items: center;
+    display: flex !important;
+    justify-content: flex-end;
+}
+.flex{
+  display: flex;
+}
+.header-text{
+  justify-content:space-around;
+}
